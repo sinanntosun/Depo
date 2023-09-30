@@ -9,7 +9,7 @@ public class Islemler {
     static UrunService obj1 =new UrunService();
     static Scanner scan =new Scanner(System.in);
     public static void start(){
-        System.out.println("Depo Sistemine Hoşgeldiniz ");
+        System.out.println("De Hoşgeldiniz ");
         boolean isAgain=true;
         do{
             System.out.println("Lütfen yapmak istediğiniz işlemi seçiniz :");
